@@ -31,7 +31,7 @@
 ### 🌐 Connect With Me  
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/yogesh-kumaravel-916b93241/)](https://www.linkedin.com/in/yogesh-kumaravel-916b93241/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogesh-kumaravel-916b93241/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoigaofficial@gmail.com)  
 
 </div>
